@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:islami/home_screen.dart';
 
-void mainO() {
-  runApp(const MyApp());
+void main() {
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
